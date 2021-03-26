@@ -9,8 +9,11 @@ A demonstration that resulted in this repository is available here: [https://you
 Built using Godot 3.2.3
 
 Resources used:
+
 [https://github.com/BL-MSCH-C220-S21/Godot-Project-Template](https://github.com/BL-MSCH-C220-S21/Godot-Project-Template)
+
 [https://github.com/BL-MSCH-C220-S21/2D-Platformer-Character](https://github.com/BL-MSCH-C220-S21/2D-Platformer-Character)
+
 [https://kenney.nl/assets/scribble-platformer](https://kenney.nl/assets/scribble-platformer)
 
 ## References
